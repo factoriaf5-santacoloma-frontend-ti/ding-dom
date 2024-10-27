@@ -8,7 +8,7 @@ Trabajaremos en crear una web para  una escuela de música online, con el plus d
 
 La tecnología ha permitido que se puedan migrar a la virtualidad muchas de las actividades que eran estrictamente presenciales, entre esas la educación, y en este caso puntual, las escuelas de música.
 
-Desarrolla una aplicación web para la escuela de música "**Toquen el DOM**", en la que los usuarios pueden acceder al instrumento de su preferencia y practicar en él de forma didáctica.
+Desarrolla una aplicación web para la escuela de música "**DING DOM**", en la que los usuarios pueden acceder al instrumento de su preferencia y practicar en él de forma didáctica.
 El diseño de la web queda a criterio de el equipo de desarrollo, aunque cabe aclarar que en los requerimientos de la escuela está la creatividad como punto importante a tener en cuenta.
 
 ### Requerimientos funcionales obligatorios
@@ -29,7 +29,7 @@ El diseño de la web queda a criterio de el equipo de desarrollo, aunque cabe ac
 
 ### Requerimientos técnicos
 
-- Utilizar el framework SCRUM para desarrollar el proyecto.
+- Utilizar Scrum & Kanban para desarrollar el proyecto.
 - Utilizar GitFlow para el desarrollo del código.
 - La aplicación debe ser responsive y adaptable a dispositivos de distinto tamaño.
 - El desarrollo del código debe hacerse sin frameworks ni librerías, a excepción de su uso par la gestión del sonido y las animaciones.
@@ -38,8 +38,6 @@ El diseño de la web queda a criterio de el equipo de desarrollo, aunque cabe ac
 
 ## Modalidades Pedagógicas
 
-
-- Los equipos serán de 4-5 personas.
 - Se trabajará durante 2 semanas, realizándose 2 sprints.
 - La fecha de presentación y entrega es el 5 de Diciembre.
 - Se trabajará mediante GitHub Classroom.
@@ -50,7 +48,7 @@ El diseño de la web queda a criterio de el equipo de desarrollo, aunque cabe ac
 - Se hará también una dinámica de autoevaluación.
 
 ### Bonus Track
-1. Crear el apartado **Gramola**, donde el usuario pueda seleccionar una canción y elegir los tres instrumentos para ser interpretada.
+1. Crear el apartado **Jukebox**, donde el usuario pueda seleccionar una canción y elegir los tres instrumentos para ser interpretada.
 2. Crear un apartado con documentación sobre primeros pasos para tocar los instrumentos.
 3. Incluir videos tutoriales de cómo tocar un instrumento con canciones sencillas y notas de cada instrumento para tocar en vivo.
 
