@@ -32,7 +32,7 @@ El diseño de la web queda a criterio de el equipo de desarrollo, aunque cabe ac
 - Utilizar Scrum & Kanban para desarrollar el proyecto.
 - Utilizar GitFlow para el desarrollo del código.
 - La aplicación debe ser responsive y adaptable a dispositivos de distinto tamaño.
-- El desarrollo del código debe hacerse sin frameworks ni librerías, a excepción de su uso par la gestión del sonido y las animaciones.
+- Si así lo decidís, podéis usar frameworks o librerías para el desarrollo, incluidas la gestión del sonido y las animaciones.
 - Se debe desplegar en producción
 
 
